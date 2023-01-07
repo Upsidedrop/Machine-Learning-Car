@@ -3881,7 +3881,7 @@ Transform:
   m_GameObject: {fileID: 1415854235}
   m_LocalRotation: {x: -0, y: -0, z: 0.007937673, w: 0.9999685}
   m_LocalPosition: {x: -2.679, y: -3.18, z: 0}
-  m_LocalScale: {x: 0.17, y: 0.17, z: 0.17}
+  m_LocalScale: {x: 0.20000002, y: 0.20000002, z: 0.20000002}
   m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 0}
@@ -3930,17 +3930,52 @@ MonoBehaviour:
   - 0
   - 0
   generation: 0
+  location: -1
   score: 0
   weights:
   - 0
-  - 3
-  - 5
-  - 1
   - 0
-  - -3
-  - -5
-  - -1
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  biases:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
   outputs:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  middle:
   - 0
   - 0
   - 0
@@ -3958,6 +3993,32 @@ MonoBehaviour:
   - 0
   - 0
   - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  bestBiases:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  timer: 0
 --- !u!1 &1431851285
 GameObject:
   m_ObjectHideFlags: 0
