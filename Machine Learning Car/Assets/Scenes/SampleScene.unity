@@ -4019,6 +4019,9 @@ MonoBehaviour:
   - 0
   - 0
   timer: 0
+  LayerMask:
+    serializedVersion: 2
+    m_Bits: 1
 --- !u!1 &1431851285
 GameObject:
   m_ObjectHideFlags: 0
